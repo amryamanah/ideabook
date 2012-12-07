@@ -1,0 +1,74 @@
+
+Features:
+- Social Network
+	- Profile Page (investor and idea submitter)
+	- Idea Blog Pages
+	- Newsfeed
+	- Like, Follow, Donate
+	- Sharing status to facebook,twitter
+	
+- Collaboration  (follow this idea, )
+- Idea categorization , Search, indexing, 
+- Top Ideas (IDea of the week, month)
+- Idea trends
+- Investors/Idea submitter meet-ups (investor portal) 
+- User Ranking with Badge (Beginner to Top Innovator .. etc)
+
+
+Contents:
+- Articles/Blog about the idea (Analysis, Studies.. etc)
+- Pictures and Videos
+
+Services:
+- Patent application assistance
+
+When:
+ALPHA Release
+	- Feb. 28, 2013
+
+Scope:
+Home Page
+	- Categorization of Ideas
+
+Social Network
+	- Registration Page
+	- Profile Page
+	- Idea Blog Page 
+		- Picture / Video Upload 
+	
+	- Newsfeed
+	- Like, Follow, Donate
+	- Sharing status to facebook,twitter
+
+
+Infrastructure:
+
+Continuous Integration
+	- TA
+	- Unit test
+	- Deployment to test servers
+	- Release Packaging
+	- Performance
+	
+How many development servers?
+Production Hosting?	
+
+
+Technology Stack:
+ - Node JS
+ - Express / Socket IO
+ - MongoDB (mongoose)
+ - Jade
+ - Twitter Bootstrap
+ - LESS
+ - Jquery
+ - Client side JS MVC framework  (backbone.js ?)
+ - or MVVM like (angular.js?)
+
+
+	
+
+	
+
+	
+	

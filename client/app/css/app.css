@@ -1,0 +1,29 @@
+/* app css stylesheet */
+
+#test {
+    background-color: #e27f04;
+    min-height: 100%;
+}
+
+#footer {
+    height: 60px;
+    background-color: #f51d7e;
+}
+
+#footer-font {
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+    #footer {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
